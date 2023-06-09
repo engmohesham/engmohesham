@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Frontend developer & Co-Founder & COO of TAG Company from Egypt</h3>
 
 - 👋 I’m currently working in **TAG Company**
 
