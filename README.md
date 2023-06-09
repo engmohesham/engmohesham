@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Mohamed</h1>
+<h2 align="left">Hi 👋, I'm Mohamed</h1>
 <h3 align="left">Co-Founder & COO of TAG Company from Egypt</h3>
 
 - 👋 I’m currently working in **TAG Company**
