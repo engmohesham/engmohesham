@@ -5,7 +5,7 @@
 
 - 👋 I’m currently working in **TAG Company**
 
-- 🌱 I’m currently learning **Data Anlysis, Data Scince**
+- 🌱 I’m currently learning **Data Anlysis, Data Science**
 
 - 👨‍💻 I'm learned **react.js | python | C# | IL & PS | adobeXD**
 
