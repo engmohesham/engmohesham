@@ -17,8 +17,10 @@
 <a href="https://www.facebook.com/EngMoHesham/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="engmohesham" height="30" width="40" /></a>
 </p>
 
+<h3 align="center">🚀 Tech Stack & Tools</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,python,cs,js,html,css,tailwind,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,php,vuejs,nuxtjs,python,cs,js,html,css,tailwind,mysql,git,github" />
 </p>
 
 
