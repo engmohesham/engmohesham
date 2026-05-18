@@ -20,7 +20,7 @@
 <h3 align="center">🚀 Tech Stack & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,php,vuejs,nuxtjs,python,cs,js,html,css,tailwind,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,php,vuejs,nuxtjs,python,cs,js,html,css,tailwind,mysql,git,github,linux,c++" />
 </p>
 
 
