@@ -31,3 +31,15 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=engmohesham&theme=radical&row=1&column=7" alt="trophies"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engmohesham&show_icons=true&locale=en&layout=compact&theme=radical" alt="langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=engmohesham&theme=react-dark" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
