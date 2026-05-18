@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engmohesham&layout=compact&theme=radical&langs_count=8&hide=html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,python,cs,js,html,css,tailwind,mysql,git,github" />
 </p>
 
 <p align="center">
