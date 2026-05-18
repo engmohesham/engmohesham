@@ -3,24 +3,34 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engmohesham&label=Profile%20views&color=0e75b6&style=flat" alt="engmohesham" /> </p>
 
 
-- 👋 I’m currently working in **Cowdly Company**
+- 👨‍💻 Full Stack Developer specialized in **Frontend, Laravel Backend, Mobile Apps, and DevOps**
 
-- 🌱 I’m currently learning **Data Anlysis, Data Science**
+- 📱 Experienced with **Flutter & React Native** for cross-platform mobile development
 
-- 👨‍💻 Skilled in **React.js | Next.js | Python | C# | UI/UX Design**
+- ⚙️ Skilled in **React.js, Next.js, Laravel, PHP, Vue.js, Nuxt.js, Linux, DevOps, MySQL, Git**
 
-- 📫 How to reach me **mohamedhesham695@gmail.com**
+- 🧠 Strong understanding of **Programming Fundamentals & C++**
+
+- 🌱 Currently learning **Data Analysis & Data Science**
+
+- 📫 Reach me at **mohamedhesham695@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/engmohesham/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engmohesham/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/EngMoHesham/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="engmohesham" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/engmohesham/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engmohesham" height="30" width="40" />
+</a>
+
+<a href="https://www.facebook.com/EngMoHesham/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="engmohesham" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="center">🚀 Tech Stack & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,php,vuejs,nuxtjs,python,cs,js,html,css,tailwind,mysql,git,github,linux,c++" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,php,vuejs,nuxtjs,flutter,dart,react,python,cs,cpp,js,html,css,tailwind,mysql,git,github,linux,docker" />
 </p>
 
 
