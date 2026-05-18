@@ -17,6 +17,10 @@
 <a href="https://www.facebook.com/EngMoHesham/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="engmohesham" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,python,cs,js,html,css,tailwind,mysql,git,github" />
+</p>
+
 
 ## 📊 GitHub Stats
 
