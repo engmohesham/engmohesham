@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Anlysis, Data Science**
 
-- 👨‍💻 I'm learned **react.js | python | C# | IL & PS | adobeXD**
+- 👨‍💻 Skilled in **React.js | Next.js | Python | C# | UI/UX Design**
 
 - 📫 How to reach me **mohamedhesham695@gmail.com**
 
@@ -38,10 +38,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=engmohesham&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engmohesham&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
