@@ -29,10 +29,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=engmohesham&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=engmohesham&theme=radical&no-frame=true&row=2&column=4&margin-w=20&margin-h=20&title_size=40&font_size=18" />
 </p>
 
