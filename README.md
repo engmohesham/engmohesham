@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=engmohesham&theme=radical&row=1&column=7" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=engmohesham&theme=radical&no-frame=true&row=2&column=4&margin-w=20&margin-h=20&title_size=40&font_size=18" />
 </p>
 
 <p align="center">
