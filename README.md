@@ -27,9 +27,8 @@
 </a>
 </p>
 
-<h3 align="center">🚀 Tech Stack & Tools</h3>
-
-<p align="center">
+<h3 align="left">🚀 Tech Stack & Tools</h3>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,php,vuejs,nuxtjs,flutter,dart,react,python,cs,cpp,js,html,css,tailwind,mysql,git,github,linux,docker" />
 </p>
 
