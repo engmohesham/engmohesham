@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=engmohesham&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=engmohesham&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </p>
 
 
