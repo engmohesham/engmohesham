@@ -24,7 +24,7 @@ const mohamed = {
   role:     "Senior Software Engineer @ SSV Agency",
   years:    8,
   builds:   ["business systems", "e-commerce platforms", "mobile apps", "dashboards"],
-  daily:    ["Laravel (MVC)", "Livewire + Alpine", ".NET / C#", "React", "Next.js", "React Native"],
+  daily:    ["Laravel (MVC)", "Livewire", ".NET / C#", "React", "Next.js", "React Native"],
   runsOn:   ["Linux", "Docker", "Nginx", "MySQL", "SQL Server"],
   learning: "operating systems — a kernel of my own, in C and x86 assembly",
   rule:     "ship it, measure it, then make it faster",
@@ -76,15 +76,15 @@ Laravel & Livewire, .NET & C#, React & React Native, database design — or how 
 
 <table>
 <tr><td valign="middle" width="190"><b>Languages</b></td><td>
-<img src="https://skillicons.dev/icons?i=cs,php,js,ts,c,py,bash,powershell,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,php,js,c,py,bash,powershell,html,css&theme=dark" />
 </td></tr>
 
 <tr><td valign="middle"><b>Backend</b></td><td>
-<img src="https://skillicons.dev/icons?i=laravel,dotnet,nodejs,express,graphql,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=laravel,dotnet,nodejs,express,postgres,redis&theme=dark" />
 </td></tr>
 
 <tr><td valign="middle"><b>Frontend</b></td><td>
-<img src="https://skillicons.dev/icons?i=react,nextjs,alpinejs,tailwind,bootstrap,sass,vite,redux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,bootstrap,sass,vite,redux&theme=dark" />
 </td></tr>
 
 <tr><td valign="middle"><b>Mobile &amp; Desktop</b></td><td>
@@ -100,7 +100,7 @@ Laravel & Livewire, .NET & C#, React & React Native, database design — or how 
 </td></tr>
 
 <tr><td valign="middle"><b>Tools</b></td><td>
-<img src="https://skillicons.dev/icons?i=postman,figma,ps,notion,visualstudio,arduino,wordpress&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postman,figma,ps,notion,visualstudio&theme=dark" />
 </td></tr>
 </table>
 
@@ -116,6 +116,7 @@ Laravel & Livewire, .NET & C#, React & React Native, database design — or how 
 ![EF Core](https://img.shields.io/badge/EF_Core-2f81f7?style=flat-square&logo=dotnet&logoColor=white&labelColor=0d1117)
 ![WPF](https://img.shields.io/badge/WPF-2f81f7?style=flat-square&logo=dotnet&logoColor=white&labelColor=0d1117)
 ![React Native](https://img.shields.io/badge/React_Native-2f81f7?style=flat-square&logo=react&logoColor=white&labelColor=0d1117)
+![JSX](https://img.shields.io/badge/JSX-2f81f7?style=flat-square&logo=react&logoColor=white&labelColor=0d1117)
 ![Android](https://img.shields.io/badge/Android-2f81f7?style=flat-square&logo=android&logoColor=white&labelColor=0d1117)
 ![iOS](https://img.shields.io/badge/iOS-2f81f7?style=flat-square&labelColor=0d1117)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-2f81f7?style=flat-square&logo=databricks&logoColor=white&labelColor=0d1117)
