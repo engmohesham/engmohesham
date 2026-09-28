@@ -1,52 +1,172 @@
-<h2 align="left">Hi 👋, I'm Mohamed</h1>
-<h3 align="left">Founder & CEO of Cowdly Company from Egypt</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=engmohesham&label=Profile%20views&color=0e75b6&style=flat" alt="engmohesham" /> </p>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,100:1a1a1a&height=200&section=header&text=Mohamed%20Hesham&fontColor=ffffff&fontSize=54&fontAlignY=34&desc=Senior%20Software%20Engineer%20%C2%B7%208%2B%20years&descAlignY=54&descSize=18" width="100%" />
 
-- 👨‍💻 Full Stack Developer specialized in **Frontend, Laravel Backend, Mobile Apps, and DevOps**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=760&height=45&lines=Senior+Software+Engineer+%40+SSV+Agency;Web+%C2%B7+Desktop+%C2%B7+Mobile+%C2%B7+Systems;Laravel+%7C+.NET+%7C+React+%7C+React+Native;Currently+writing+my+own+operating+system" alt="" />
 
-- 📱 Experienced with **Flutter & React Native** for cross-platform mobile development
+<br/><br/>
 
-- ⚙️ Skilled in **React.js, Next.js, Laravel, PHP, Vue.js, Nuxt.js, Linux, DevOps, MySQL, Git**
+<img src="https://img.shields.io/badge/8%2B%20YEARS%20EXPERIENCE-2f81f7?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/SENIOR%20SOFTWARE%20ENGINEER-161616?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/@%20SSV%20AGENCY-2f81f7?style=for-the-badge&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=engmohesham&label=PROFILE%20VIEWS&color=2f81f7&style=for-the-badge" />
 
-- 🧠 Strong understanding of **Programming Fundamentals & C++**
+</div>
 
-- 🌱 Currently learning **Data Analysis & Data Science**
+<br/>
 
-- 📫 Reach me at **mohamedhesham695@gmail.com**
+## `01.` Who I am
 
-<h3 align="left">Connect with me:</h3>
+I build software end to end — the web app, the desktop client, the mobile app, the API, the database, and the server it all runs on. Eight years of it: ERP and business systems, e-commerce platforms, dashboards and consumer apps, most of them in production right now.
 
-<p align="left">
-<a href="https://www.linkedin.com/in/mohamedalazaizy/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engmohesham" height="30" width="40" />
-</a>
+```ts
+const mohamed = {
+  role:     "Senior Software Engineer @ SSV Agency",
+  years:    8,
+  builds:   ["business systems", "e-commerce platforms", "mobile apps", "dashboards"],
+  daily:    ["Laravel (MVC)", "Livewire + Alpine", ".NET / C#", "React", "Next.js", "React Native"],
+  runsOn:   ["Linux", "Docker", "Nginx", "MySQL", "SQL Server"],
+  learning: "operating systems — a kernel of my own, in C and x86 assembly",
+  rule:     "ship it, measure it, then make it faster",
+};
+```
 
-<a href="https://www.facebook.com/EngMoHesham/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="engmohesham" height="30" width="40" />
-</a>
-</p>
+<br/>
 
-<h3 align="left">🚀 Tech Stack & Tools</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,php,vuejs,nuxtjs,flutter,dart,react,python,cs,cpp,js,html,css,tailwind,mysql,git,github,linux,docker" />
-</p>
+## `02.` What I'm on right now
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📊 GitHub Stats
+### 🔭 Working
+**Senior Software Engineer at [SSV Agency](https://ssvagency.com)**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=engmohesham&theme=radical" alt="streak" />
-</p>
+Web platforms, business systems and mobile apps for clients across the region — architecture, database design, APIs, deployment and the 2 a.m. production fix.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=engmohesham&theme=radical&no-frame=true&row=2&column=4&margin-w=20&margin-h=20&title_size=40&font_size=18" />
-</p>
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=engmohesham&theme=react-dark&hide_border=true" />
-</p>
+### 🧠 Learning
+**Writing an operating system**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+A kernel from scratch in **C** and **x86 assembly** — bootloader, memory management, interrupts, a scheduler — debugged on **QEMU** and **GDB**. The best way I know to understand what sits under every framework I use.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👯 Open to
+Modern web platforms, Laravel and Filament products, mobile apps, and anything low-level and systems-flavoured.
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Ask me about
+Laravel & Livewire, .NET & C#, React & React Native, database design — or how a bootloader hands control to a kernel.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `03.` Tech stack
+
+<table>
+<tr><td valign="middle" width="190"><b>Languages</b></td><td>
+<img src="https://skillicons.dev/icons?i=cs,php,js,ts,c,py,bash,powershell,html,css&theme=dark" />
+</td></tr>
+
+<tr><td valign="middle"><b>Backend</b></td><td>
+<img src="https://skillicons.dev/icons?i=laravel,dotnet,nodejs,express,graphql,redis&theme=dark" />
+</td></tr>
+
+<tr><td valign="middle"><b>Frontend</b></td><td>
+<img src="https://skillicons.dev/icons?i=react,nextjs,alpinejs,tailwind,bootstrap,sass,vite,redux&theme=dark" />
+</td></tr>
+
+<tr><td valign="middle"><b>Mobile &amp; Desktop</b></td><td>
+<img src="https://skillicons.dev/icons?i=react,electron,androidstudio,cs,vscode&theme=dark" />
+</td></tr>
+
+<tr><td valign="middle"><b>Databases</b></td><td>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,firebase,supabase&theme=dark" />
+</td></tr>
+
+<tr><td valign="middle"><b>DevOps &amp; Cloud</b></td><td>
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,githubactions,aws,cloudflare,netlify&theme=dark" />
+</td></tr>
+
+<tr><td valign="middle"><b>Tools</b></td><td>
+<img src="https://skillicons.dev/icons?i=postman,figma,ps,notion,visualstudio,arduino,wordpress&theme=dark" />
+</td></tr>
+</table>
+
+**Also in the toolbox**
+
+![Laravel MVC](https://img.shields.io/badge/Laravel_MVC-2f81f7?style=flat-square&logo=laravel&logoColor=white&labelColor=0d1117)
+![Livewire](https://img.shields.io/badge/Livewire-2f81f7?style=flat-square&logo=livewire&logoColor=white&labelColor=0d1117)
+![Filament](https://img.shields.io/badge/Filament-2f81f7?style=flat-square&logo=laravel&logoColor=white&labelColor=0d1117)
+![Blade](https://img.shields.io/badge/Blade-2f81f7?style=flat-square&logo=laravel&logoColor=white&labelColor=0d1117)
+![Eloquent ORM](https://img.shields.io/badge/Eloquent_ORM-2f81f7?style=flat-square&logo=laravel&logoColor=white&labelColor=0d1117)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-2f81f7?style=flat-square&logo=inertia&logoColor=white&labelColor=0d1117)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-2f81f7?style=flat-square&logo=dotnet&logoColor=white&labelColor=0d1117)
+![EF Core](https://img.shields.io/badge/EF_Core-2f81f7?style=flat-square&logo=dotnet&logoColor=white&labelColor=0d1117)
+![WPF](https://img.shields.io/badge/WPF-2f81f7?style=flat-square&logo=dotnet&logoColor=white&labelColor=0d1117)
+![React Native](https://img.shields.io/badge/React_Native-2f81f7?style=flat-square&logo=react&logoColor=white&labelColor=0d1117)
+![Android](https://img.shields.io/badge/Android-2f81f7?style=flat-square&logo=android&logoColor=white&labelColor=0d1117)
+![iOS](https://img.shields.io/badge/iOS-2f81f7?style=flat-square&labelColor=0d1117)
+![SQL Server](https://img.shields.io/badge/SQL_Server-2f81f7?style=flat-square&logo=databricks&logoColor=white&labelColor=0d1117)
+![MariaDB](https://img.shields.io/badge/MariaDB-2f81f7?style=flat-square&logo=mariadb&logoColor=white&labelColor=0d1117)
+![Apache](https://img.shields.io/badge/Apache-2f81f7?style=flat-square&logo=apache&logoColor=white&labelColor=0d1117)
+![REST APIs](https://img.shields.io/badge/REST_APIs-2f81f7?style=flat-square&logo=openapiinitiative&logoColor=white&labelColor=0d1117)
+![JWT](https://img.shields.io/badge/JWT-2f81f7?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=0d1117)
+![Swagger](https://img.shields.io/badge/Swagger-2f81f7?style=flat-square&logo=swagger&logoColor=white&labelColor=0d1117)
+![x86 Assembly](https://img.shields.io/badge/x86_Assembly-2f81f7?style=flat-square&logo=gnu&logoColor=white&labelColor=0d1117)
+![QEMU](https://img.shields.io/badge/QEMU-2f81f7?style=flat-square&logo=qemu&logoColor=white&labelColor=0d1117)
+![GDB](https://img.shields.io/badge/GDB-2f81f7?style=flat-square&logo=gnu&logoColor=white&labelColor=0d1117)
+![Make](https://img.shields.io/badge/Make-2f81f7?style=flat-square&logo=cmake&logoColor=white&labelColor=0d1117)
+![PM2](https://img.shields.io/badge/PM2-2f81f7?style=flat-square&logo=pm2&logoColor=white&labelColor=0d1117)
+![Jira](https://img.shields.io/badge/Jira-2f81f7?style=flat-square&logo=jirasoftware&logoColor=white&labelColor=0d1117)
+
+<br/>
+
+## `04.` GitHub
+
+<div align="center">
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=engmohesham&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=engmohesham&theme=github_dark" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=engmohesham&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=engmohesham&theme=github_dark&utcOffset=2" />
+
+<br/><br/>
+
+<img width="98%" src="https://streak-stats.demolab.com?user=engmohesham&hide_border=true&background=0D1117&stroke=30363d&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+<br/><br/>
+
+<img width="98%" src="https://ghchart.rshah.org/2f81f7/engmohesham" alt="contribution chart" />
+
+</div>
+
+<br/>
+
+## `05.` Find me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-2f81f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/engmohesham)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-2f81f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/mohamedalazaizy/)
+[![Email](https://img.shields.io/badge/EMAIL-2f81f7?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0d1117)](mailto:mohamedhesham695@gmail.com)
+
+<br/>
+
+**☕ I drink more coffee than my code compiles.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2f81f7&height=120&section=footer" width="100%" />
+
+</div>
