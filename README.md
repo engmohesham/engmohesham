@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,100:1a1a1a&height=200&section=header&text=Mohamed%20Hesham&fontColor=ffffff&fontSize=54&fontAlignY=34&desc=Senior%20Software%20Engineer%20%C2%B7%208%2B%20years&descAlignY=54&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=760&height=45&lines=Senior+Software+Engineer+%40+SSV+Agency;Web+%C2%B7+Desktop+%C2%B7+Mobile+%C2%B7+Systems;Laravel+%7C+.NET+%7C+React+%7C+React+Native;Currently+writing+my+own+operating+system" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=760&height=45&lines=Senior+Software+Engineer+%40+SSV+Agency;Web+%C2%B7+Desktop+%C2%B7+Mobile+%C2%B7+Systems;Laravel+%7C+React+%7C+React+Native;Currently+writing+my+own+operating+system" alt="" />
 
 <br/><br/>
 
@@ -24,7 +24,7 @@ const mohamed = {
   role:     "Senior Software Engineer @ SSV Agency",
   years:    8,
   builds:   ["business systems", "e-commerce platforms", "mobile apps", "dashboards"],
-  daily:    ["Laravel (MVC)", "Livewire", ".NET / C#", "React", "Next.js", "React Native"],
+  daily:    ["Laravel (MVC)", "Livewire", "C#", "React", "Next.js", "React Native"],
   runsOn:   ["Linux", "Docker", "Nginx", "MySQL", "SQL Server"],
   learning: "operating systems — a kernel of my own, in C and x86 assembly",
   rule:     "ship it, measure it, then make it faster",
@@ -64,7 +64,7 @@ Modern web platforms, Laravel and Filament products, mobile apps, and anything l
 <td width="50%" valign="top">
 
 ### 💬 Ask me about
-Laravel & Livewire, .NET & C#, React & React Native, database design — or how a bootloader hands control to a kernel.
+Laravel & Livewire, C#, React & React Native, database design — or how a bootloader hands control to a kernel.
 
 </td>
 </tr>
@@ -80,7 +80,7 @@ Laravel & Livewire, .NET & C#, React & React Native, database design — or how 
 </td></tr>
 
 <tr><td valign="middle"><b>Backend</b></td><td>
-<img src="https://skillicons.dev/icons?i=laravel,dotnet,nodejs,express,postgres,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,postgres,redis&theme=dark" />
 </td></tr>
 
 <tr><td valign="middle"><b>Frontend</b></td><td>
@@ -112,9 +112,6 @@ Laravel & Livewire, .NET & C#, React & React Native, database design — or how 
 ![Blade](https://img.shields.io/badge/Blade-2f81f7?style=flat-square&logo=laravel&logoColor=white&labelColor=0d1117)
 ![Eloquent ORM](https://img.shields.io/badge/Eloquent_ORM-2f81f7?style=flat-square&logo=laravel&logoColor=white&labelColor=0d1117)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-2f81f7?style=flat-square&logo=inertia&logoColor=white&labelColor=0d1117)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-2f81f7?style=flat-square&logo=dotnet&logoColor=white&labelColor=0d1117)
-![EF Core](https://img.shields.io/badge/EF_Core-2f81f7?style=flat-square&logo=dotnet&logoColor=white&labelColor=0d1117)
-![WPF](https://img.shields.io/badge/WPF-2f81f7?style=flat-square&logo=dotnet&logoColor=white&labelColor=0d1117)
 ![React Native](https://img.shields.io/badge/React_Native-2f81f7?style=flat-square&logo=react&logoColor=white&labelColor=0d1117)
 ![JSX](https://img.shields.io/badge/JSX-2f81f7?style=flat-square&logo=react&logoColor=white&labelColor=0d1117)
 ![Android](https://img.shields.io/badge/Android-2f81f7?style=flat-square&logo=android&logoColor=white&labelColor=0d1117)
